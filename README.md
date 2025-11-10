@@ -1,64 +1,78 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
+<!-- HEADER -->
 <div align="center">
-  <img width="1024" height="1024" alt="GitHubLogo" src="https://github.com/user-attachments/assets/27f4cb8a-ac94-43b6-9e38-23e76da1e700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hugo%20Montaño&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+Next.js+%2F+Typescript;Creador+de+interfaces+claras+y+eficientes" />
 </div>
 
-###
+<br/>
 
-<h2 align="center">Me llamo Hugo Montaño, soy desarrollador frontend jr</h2>
-
-###
-
-<br clear="both">
-
+<!-- FOTO / AVATAR -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugo-DevM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hugo-DevM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github.com/user-attachments/assets/27f4cb8a-ac94-43b6-9e38-23e76da1e700"
+       width="240"
+       style="border-radius: 20px; box-shadow: 0px 6px 20px rgba(0,0,0,0.35);" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<h2 align="center">👋 Hola, soy Hugo Montaño — Frontend Developer Jr</h2>
 
-<img src="https://raw.githubusercontent.com/Hugo-DevM/Hugo-DevM/output/snake.svg" alt="Snake animation" />
+---
 
-###
+# 🚀 Sobre mí
+- Desarrollador frontend especializado en **React**, **Next.js** y **TypeScript**  
+- Me gusta crear interfaces limpias, rápidas e intuitivas  
+- Amante del diseño, UX y la automatización  
+- Siempre aprendiendo nuevas tecnologías
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+---
+
+# 🛠️ Tecnologías y herramientas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,html,git,github,figma,nodejs,flutter,firebase,mysql,python,arduino" />
 </div>
 
-###
+---
+
+# 📊 GitHub Stats
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hugo-DevM&show_icons=true&theme=dracula&hide_border=true" />
+
+  <img height="160" src="https://streak-stats.demolab.com?user=Hugo-DevM&theme=dracula&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugo-DevM&layout=compact&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/Hugo-DevM/Hugo-DevM/output/snake.svg" width="100%" />
+
+---
+
+# ✨ Proyectos Destacados
+- ⚡ Software de fidelización para negocios  
+- 🏃 Plataforma **TimeRace** (carreras, ligas y categorías)  
+- 🎨 Sistemas UI y componentes reutilizables
+
+---
+
+# 📫 Contacto
+<div align="center">
+  <a href="https://www.linkedin.com/in/hugo-devm">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:hugodevm@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
