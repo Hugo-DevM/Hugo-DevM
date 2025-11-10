@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hugo%20Montaño&fontSize=60&fontColor=ffffff&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+Next.js+%2F+Typescript;Creador+de+interfaces+claras+y+eficientes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+Next.js+%2F+JavaScript;Creador+de+interfaces+claras+y+eficientes" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 ---
 
 # 🚀 Sobre mí
-- Desarrollador frontend especializado en **React**, **Next.js** y **TypeScript**  
+- Desarrollador frontend especializado en **React**, **Next.js** y **JavaScript**  
 - Me gusta crear interfaces limpias, rápidas e intuitivas  
 - Amante del diseño, UX y la automatización  
 - Siempre aprendiendo nuevas tecnologías
@@ -46,26 +46,19 @@
 
 </div>
 
----
-
-# 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/Hugo-DevM/Hugo-DevM/output/snake.svg" width="100%" />
-
----
-
 # ✨ Proyectos Destacados
 - ⚡ Software de fidelización para negocios  
 - 🏃 Plataforma **TimeRace** (carreras, ligas y categorías)  
-- 🎨 Sistemas UI y componentes reutilizables
+- 🧑‍💻 Plataforma **Freelanzer** (Gestion de cotizaciones, contratos y proyectos)
 
 ---
 
 # 📫 Contacto
 <div align="center">
-  <a href="https://www.linkedin.com/in/hugo-devm">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <a href="[https://www.instagram.com/frenchfries._.015?igsh=MWx0bWY5NHMzN2ljcA%3D%3D&utm_source=qr]">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
-  <a href="mailto:hugodevm@gmail.com">
+  <a href="mailto:mobile.developer.mx@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
 </div>
