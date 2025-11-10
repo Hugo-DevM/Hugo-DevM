@@ -23,7 +23,7 @@
 # 🚀 Sobre mí
 - Desarrollador frontend especializado en **React**, **Next.js** y **JavaScript**  
 - Me gusta crear interfaces limpias, rápidas e intuitivas  
-- Amante del diseño, UX y la automatización  
+- Amante de los videojuegos y el anime 
 - Siempre aprendiendo nuevas tecnologías
 
 ---
@@ -55,7 +55,7 @@
 
 # 📫 Contacto
 <div align="center">
-  <a href="[https://www.instagram.com/frenchfries._.015?igsh=MWx0bWY5NHMzN2ljcA%3D%3D&utm_source=qr]">
+  <a href="https://www.instagram.com/frenchfries._.015" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
   <a href="mailto:mobile.developer.mx@gmail.com">
